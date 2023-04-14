@@ -1,4 +1,4 @@
-### This Repo to contains all the resouces while Learning MachineLearning - Happy Learning :)  
+### This Repo to contains all the resources while i am Learning MachineLearning - Happy Learning :)  
 
 ## Linear Regression 
 
