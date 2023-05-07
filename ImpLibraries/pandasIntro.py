@@ -12,5 +12,5 @@ print(mavar.loc[0])
  
 # read a csv file
 
-mFile = pd.read_csv
+mFile = pd.read_csv('addresses.csv')
 print(mFile )
