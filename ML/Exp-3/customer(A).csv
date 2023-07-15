@@ -1,0 +1,17 @@
+age,income,student,creditrating,class,number,hhh
+youth,high,no,fair,no,12,yes
+youth,high,no,excellent,no,21,yes
+middleaged,high,no,fair,yes,12,yes
+senior,medium,no,fair,yes,45,yes
+senior,low,yes,fair,yes,67,yes
+senior,low,yes,excellent,no,34,yes
+middleaged,low,yes,excellent,yes,43,yes
+youth,medium,no,fair,no,78,yes
+youth,low,yes,fair,yes,23,yes
+senior,medium,yes,fair,yes,67,yes
+youth,medium,yes,excellent,yes,12,yes
+middleaged,medium,no,excellent,yes,65,yes
+middleaged,low,yes,fair,yes,54,yes
+senior,medium,no,excellent,no,98,yes
+senior,medium,no,excellent,no,65,yes
+senior,medium,no,excellent,no,78,yes
